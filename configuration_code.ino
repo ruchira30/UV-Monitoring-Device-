@@ -12,11 +12,11 @@
 #include "addons/RTDBHelper.h"
 
 // Replace with your network credentials
-#define WIFI_SSID "HAKUNA BATATA"
-#define WIFI_PASSWORD "zpto5838"
+#define WIFI_SSID "********"
+#define WIFI_PASSWORD "******"
 
 // Replace with your Firebase project API Key
-#define API_KEY "AIzaSyAPXz0znPyQo3-IeZ-VTS-STG_PWTMcB_g"
+#define API_KEY "****************************"
 
 // Replace with your RTDB URL
 #define DATABASE_URL "https://uv-monitoring-device-1a8a7-default-rtdb.asia-southeast1.firebasedatabase.app/"

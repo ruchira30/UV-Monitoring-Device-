@@ -10,3 +10,4 @@ A microcontroller-based system that tracks and monitors users' UV exposure, secu
 - **Cloud Platform:** Firebase
 
 
+![Hardware Circuit](https://github.com/ruchira30/UV-Monitoring-Device-/blob/main/hardware%20circuit.png)

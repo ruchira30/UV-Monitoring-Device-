@@ -11,4 +11,8 @@ A microcontroller-based system that tracks and monitors users' UV exposure, secu
   
 ![Hardware Circuit](https://github.com/ruchira30/UV-Monitoring-Device-/raw/main/images/hardwarecircuit.png)
 
+![Firebase Console](https://github.com/ruchira30/UV-Monitoring-Device-/raw/main/images/firebase%20console.png)
+
+![]()
+
 

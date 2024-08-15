@@ -8,6 +8,7 @@ A microcontroller-based system that tracks and monitors users' UV exposure, secu
 - **UV Sensor:** S12D UV sensor
 - **Wi-Fi Module:** ESP8266
 - **Cloud Platform:** Firebase
-- 
-![Hardware Circuit](https://github.com/ruchira30/UV-Monitoring-Device-/blob/main/images/hardware%20circuit.png)
+  
+![Hardware Circuit](https://github.com/ruchira30/UV-Monitoring-Device-/raw/main/images/hardwarecircuit.png)
+
 
